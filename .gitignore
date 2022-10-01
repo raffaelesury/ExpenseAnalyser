@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+2022_account_statements.csv
+2021_account_statements.csv
